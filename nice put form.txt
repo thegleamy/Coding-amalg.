@@ -1,0 +1,10 @@
+The sum of all values beween
+	i = - infinity to 
+	i = + infinity
+({the sum of all values bewtween l = 0 -> infinity
+[(the integral of A sub b as n approaches infinity
+divide the value of x at point 0 -> infinity)
+multiply (delta(x))
+multiply (x sub l)]
+multiply Z^(Rt) sub s})subi
+=Fsub*
